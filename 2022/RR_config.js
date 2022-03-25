@@ -16,7 +16,7 @@ var config_data = `
         "type":"event",
         "defaultValue":"2022orsal",
         "required":"true",
-        "disabled":"true"
+        "disabled":"false"
       },
       "Match Level":{
         "code":"l",
